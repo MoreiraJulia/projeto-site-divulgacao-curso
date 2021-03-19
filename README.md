@@ -1,6 +1,5 @@
 # Site para divulgação de curso
-Esse projeto serve para estudar como criar uma tela de divulgação de cursos.
-
+Site para divulgação de curso feito durante o curso Técnico em Informática do Senac Americana.
 ----------
 
 ## Tecnologias
